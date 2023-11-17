@@ -1,0 +1,16 @@
+{
+  "name": "fullstackecommerceproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd backend && npm install",
+    "start-server": "cd backend && npm run dev",
+    "install-frontend": "cd frontend && npm install",
+    "build-client":"cd frontend && npm run build",
+    "start-fronted": "cd fronted && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
